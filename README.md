@@ -19,7 +19,7 @@ Challenge 9 for Butler Data Science
 	- Max Temps
 	  - Comparing the data we can see that there is a maximum temperature of 85 degrees in June and a maximum temperature of 83 degrees in December. This tells us that it can be almost in warm in December on any given day as it is in June. Combined with the average temperature calculation this is promising weather for December.
 
-	  - Summary Statistics
+	- Summary Statistics
 
 ![Summary Statistics](https://github.com/coxjack/AdvDataStorageChallenge9/blob/main/Additional%20Supporting%20Images/Temps%20Compare.png)
 	
