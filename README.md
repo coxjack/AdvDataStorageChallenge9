@@ -3,7 +3,7 @@ Challenge 9 for Butler Data Science
 
 ## 1. Overview of Surf's Up Analysis
 ### 
-* The goal of this module is to determine if it is viable to open a surf shop. Our partner in this endeavor wants to to be sure the weather will be ideal for surfing. To determine this we took weather data from stations in Hawaii and analyzed the temperatures.
+* The goal of this module is to determine if it is viable to open a surf shop. Our partner in this endeavor wants to to be sure the weather will be ideal for surfing year round. To determine this we took weather data from stations in Hawaii and analyzed the temperatures.
 
 ## 2. Results
 ### 
@@ -12,7 +12,7 @@ Challenge 9 for Butler Data Science
 
 	  - Summary Statistics
 
-![Summary Statistics]()
+![Summary Statistics](https://github.com/coxjack/AdvDataStorageChallenge9/blob/main/Additional%20Supporting%20Images/Temps%20Compare.png)
 
 	- Mean Temps
 	  - Comparing the data we can see that there is an average temperature of 74.9 degrees in June and an average temperature of 71 degrees in December. This tells us that on average in either month we would have no issue attracting surfers because it is warm enough to surf.
@@ -39,7 +39,7 @@ Challenge 9 for Butler Data Science
 
 	  - Combined Station Temps
 
-![Combined Station Temps]()
+![Combined Station Temps](https://github.com/coxjack/AdvDataStorageChallenge9/blob/main/Additional%20Supporting%20Images/Summary%20Stations.png)
 
 
 
